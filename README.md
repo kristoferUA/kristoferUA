@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mykyta+Sukovach;Cybersecurity+student+%7C+CTF+player;aka+kristoferUA"
@@ -143,4 +142,3 @@
 *Breaking things to understand how to secure them.*
 
 </div>
-```
