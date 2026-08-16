@@ -1,13 +1,13 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mykyta+Sukovach;Cybersecurity+student+%7C+CTF+player;aka+kristoferUA"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mykyta+Sukovach;Cybersecurity+%26+Cryptography;CTF+player+%7C+aka+kristoferUA"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
   <b>Cybersecurity student at Igor Sikorsky Kyiv Polytechnic Institute</b><br>
-  CTF competitor • Web Security • Offensive Security • Web & Backend Development
+  Cryptography • Cryptanalysis • CTF • Offensive Security
 </p>
 
 <div align="center">
@@ -37,12 +37,30 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-  I'm a cybersecurity student and CTF player interested in practical security,
-  web technologies and building things that break, defend or automate systems.
+  I'm a cybersecurity student and CTF player with a strong interest in
+  <b>cryptography, cryptanalysis and practical security</b>.
+  I enjoy understanding how cryptographic systems work, where they fail,
+  and how mathematical ideas turn into real-world security.
 </p>
 
 <p align="center">
-  🇺🇦 Ukraine &nbsp;•&nbsp; 🎓 KPI &nbsp;•&nbsp; 🚩 CTF &nbsp;•&nbsp; 🔐 Cybersecurity
+  🇺🇦 Ukraine &nbsp;•&nbsp; 🎓 KPI &nbsp;•&nbsp; 🔐 Cryptography &nbsp;•&nbsp; 🚩 CTF
+</p>
+
+---
+
+<h2 align="center">Cryptography</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cryptography-A277FF?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography">
+  <img src="https://img.shields.io/badge/Cryptanalysis-111111?style=for-the-badge&logo=proton&logoColor=white" alt="Cryptanalysis">
+  <img src="https://img.shields.io/badge/CTF_Crypto-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Crypto">
+</p>
+
+<p align="center">
+  Modern Cryptography • Cryptanalysis • Number Theory • Symmetric & Asymmetric Cryptography
+  <br>
+  Hash Functions • Digital Signatures • CTF Crypto
 </p>
 
 ---
@@ -56,7 +74,7 @@
 </p>
 
 <p align="center">
-  CTF competitions • Web Security • OSINT • Security Research • AI Security
+  CTF Competitions • Web Security • OSINT • Security Research • AI Security
 </p>
 
 ---
@@ -79,7 +97,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,js,html,css,bash&perline=8"
+    src="https://skillicons.dev/icons?i=py,cpp,js,html,css,bash&perline=8"
     alt="Languages"
   />
 </p>
@@ -124,11 +142,11 @@
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-  🔐 Cybersecurity &nbsp;•&nbsp;
-  🚩 CTF &nbsp;•&nbsp;
-  🌐 Web Security &nbsp;•&nbsp;
-  🧠 AI Security &nbsp;•&nbsp;
-  ⚙️ Automation
+  🔐 Cryptography &nbsp;•&nbsp;
+  🧮 Cryptanalysis &nbsp;•&nbsp;
+  🚩 CTF Crypto &nbsp;•&nbsp;
+  🛡️ Cybersecurity &nbsp;•&nbsp;
+  🧠 Security Research
 </p>
 
 ---
@@ -139,6 +157,6 @@
 
 **Mykyta Sukovach**
 
-*Breaking things to understand how to secure them.*
+*Understanding the math. Breaking the assumptions. Securing the system.*
 
 </div>
