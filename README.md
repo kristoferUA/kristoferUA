@@ -83,6 +83,16 @@
 
 <div align="center">
 
+### 🥇 Sikorsky CTF 2026
+
+**1st Place • Junior Category • Team KangaROOP**
+
+Sikorsky CTF 2026 • July 11-12, 2026
+
+[Verify certificate](https://kpi2026.ctf.in.ua/cert/cbd34526-b4be-4a3e-9003-202359835829.pdf)
+
+<br>
+
 ### 🥉 International Cyber Olympiad in AI 2026
 
 **Bronze Medalist • Team Ukraine 🇺🇦**
