@@ -128,12 +128,12 @@ Sikorsky CTF 2026 • July 11-12, 2026
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=kristoferUA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kristoferUA&theme=tokyonight"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristoferUA&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kristoferUA&theme=tokyonight"
     alt="Top languages"
   />
 </div>
@@ -142,7 +142,7 @@ Sikorsky CTF 2026 • July 11-12, 2026
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kristoferUA&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=kristoferUA&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
   />
 </div>
