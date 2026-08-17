@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  CTF Competitions • Web Security • OSINT • Security Research • AI Security
+  CTF Competitions • Web Security • Security Research • AI Security
 </p>
 
 ---
