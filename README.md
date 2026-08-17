@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  🇺🇦 Ukraine &nbsp;•&nbsp; 🎓 KPI &nbsp;•&nbsp; 🔐 Cryptography &nbsp;•&nbsp; 🚩 CTF
+  🇺🇦 Ukraine &nbsp;•&nbsp; 🎓 KPI &nbsp;•&nbsp; 🔐 Cryptography &nbsp;•&nbsp; 🚩 CTF &nbsp;•&nbsp; 🐱 DCUA
 </p>
 
 ---
